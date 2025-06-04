@@ -1,0 +1,31 @@
+Here is a sample leave letter:
+
+[Your Name]
+[Your Address]
+[City, State, Pincode]
+[Email ID]
+[Phone Number]
+[Date]
+
+[Recipient's Name]
+[Recipient's Designation]
+[Organization's Name]
+[Organization's Address]
+[City, State, Pincode]
+
+Dear [Recipient's Name],
+
+I am writing to request a leave of [number of days] days from [start date] to [end date] due to [briefly mention the reason for leave, e.g. personal reasons, family emergency, sickness etc.].
+
+I will ensure that all my tasks are completed and my work is up to date before taking the leave. I will also be available on email and phone if anything urgent comes up during my absence.
+
+I would like to request you to approve my leave application. If there are any issues or concerns, please let me know as soon as possible.
+
+Thank you for your understanding and support.
+
+Sincerely,
+
+[Your Signature]
+[Your Name]
+
+Note: This is a sample leave letter, you should customize it as per your needs and policies.

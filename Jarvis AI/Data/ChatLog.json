@@ -1,0 +1,386 @@
+[
+    {
+        "role": "user",
+        "content": "& \"C:/Users/R P Sujan/OneDrive/Desktop/Jarvis AI/.venv/Scripts/python.exe\" \"c:/Users/R P Sujan/OneDrive/Desktop/Jarvis AI/Backend/Chatbot.py\""
+    },
+    {
+        "role": "assistant",
+        "content": "You're running the script that initialized me. I'm ready to assist you, Sujan. What can I help you with?"
+    },
+    {
+        "role": "user",
+        "content": "r1"
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you've provided a code or a variable \"r1\". Could you please provide more context or clarify what \"r1\" refers to so I can better assist you?"
+    },
+    {
+        "role": "user",
+        "content": "Yamaha YZF R1M Carbon"
+    },
+    {
+        "role": "assistant",
+        "content": "You're referring to the Yamaha YZF-R1M Carbon, a high-performance motorcycle."
+    },
+    {
+        "role": "user",
+        "content": "yes"
+    },
+    {
+        "role": "assistant",
+        "content": "The Yamaha YZF-R1M Carbon is a limited-edition variant of the R1M, featuring a carbon fiber body and advanced electronics. It's a track-focused bike with a 998cc inline-four engine, producing 200 horsepower."
+    },
+    {
+        "role": "user",
+        "content": "nmt"
+    },
+    {
+        "role": "assistant",
+        "content": "Neural Machine Translation (NMT)"
+    },
+    {
+        "role": "user",
+        "content": "newton meter torque"
+    },
+    {
+        "role": "assistant",
+        "content": "Newton Meter (Nm) is a unit of torque, commonly used to measure the rotational force of an engine or motor."
+    },
+    {
+        "role": "user",
+        "content": "for r1m"
+    },
+    {
+        "role": "assistant",
+        "content": "The Yamaha YZF-R1M produces a maximum torque of 82.6 Nm at 11,500 rpm."
+    },
+    {
+        "role": "user",
+        "content": "will i be able to create a shopping brand say yes or no"
+    },
+    {
+        "role": "assistant",
+        "content": "Yes"
+    },
+    {
+        "role": "user",
+        "content": "& \"C:/Users/R P Sujan/OneDrive/Desktop/Jarvis AI/.venv/Scripts/python.exe\" \"c:/Users/R P Sujan/OneDrive/Desktop/Jarvis AI/Backend/Chatbot.py\""
+    },
+    {
+        "role": "assistant",
+        "content": "You're running the script again. I'm still here, ready to assist you, Sujan. What's next?"
+    },
+    {
+        "role": "user",
+        "content": "which ai model you are based on"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm based on a transformer architecture, specifically a variant of the LLaMA model."
+    },
+    {
+        "role": "user",
+        "content": "& \"C:/Users/R P Sujan/OneDrive/Desktop/Jarvis AI/.venv/Scripts/python.exe\" \"c:/Users/R P Sujan/OneDrive/Desktop/Jarvis AI/Backend/Chatbot.py\""
+    },
+    {
+        "role": "assistant",
+        "content": "You're running the script again. I'm still here, ready to assist you, Sujan. What's next?"
+    },
+    {
+        "role": "user",
+        "content": "which model you are based on"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm based on the LLaMA model, a type of transformer architecture."
+    },
+    {
+        "role": "user",
+        "content": "& \"C:/Users/R P Sujan/OneDrive/Desktop/Jarvis AI/.venv/Scripts/python.exe\""
+    },
+    {
+        "role": "assistant",
+        "content": "You're running the script again. I'm still here, ready to assist you, Sujan. What's next?"
+    },
+    {
+        "role": "user",
+        "content": "will the clothing market always in demanf"
+    },
+    {
+        "role": "assistant",
+        "content": "Based on the search results you provided earlier, it seems that the clothing market may not always be in demand. The articles suggest that the market is facing challenges, and there are uncertainties about consumer sentiment and industry conditions. However, it's also mentioned that fashion trends continue to change, and consumer demand for clothing is constantly changing. This implies that the market may not always be in high demand, but it will likely continue to evolve and adapt to changing consumer preferences."
+    },
+    {
+        "role": "user",
+        "content": "will the clothing market always be in demand"
+    },
+    {
+        "role": "assistant",
+        "content": "No, the clothing market may not always be in demand."
+    },
+    {
+        "role": "user",
+        "content": "whats the most demanding thing in world"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results you provided earlier, the most demanding thing in the world is clothing."
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, Sujan!"
+    },
+    {
+        "role": "user",
+        "content": "H?"
+    },
+    {
+        "role": "assistant",
+        "content": "Hydrogen"
+    },
+    {
+        "role": "user",
+        "content": "W?"
+    },
+    {
+        "role": "assistant",
+        "content": "Water"
+    },
+    {
+        "role": "user",
+        "content": "W?"
+    },
+    {
+        "role": "assistant",
+        "content": "Wi-Fi"
+    },
+    {
+        "role": "user",
+        "content": "W?"
+    },
+    {
+        "role": "assistant",
+        "content": "WhatsApp"
+    },
+    {
+        "role": "user",
+        "content": "You idiot.."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize if I made a mistake. I'm here to help and provide accurate information. It seems I didn't meet your expectations this time. Could you please clarify what you were expecting as an answer when you asked \"W?\"? I'll do my best to provide a correct response."
+    },
+    {
+        "role": "user",
+        "content": "W?"
+    },
+    {
+        "role": "assistant",
+        "content": "I remember! You provided search results for \"W\" earlier, which included \"W for Woman\", \"WhatsApp\", and other related results."
+    },
+    {
+        "role": "user",
+        "content": "C?"
+    },
+    {
+        "role": "assistant",
+        "content": "Chrome"
+    },
+    {
+        "role": "user",
+        "content": "Idiot.."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize if I made a mistake again. It seems I didn't meet your expectations. Could you please clarify what you were expecting as an answer when you asked \"C?\"? Was it a specific word or term starting with the letter C? I'll do my best to provide a correct response."
+    },
+    {
+        "role": "user",
+        "content": "Yamaha r15 r1m.."
+    },
+    {
+        "role": "assistant",
+        "content": "Two popular Yamaha bikes! The R15 is a entry-level supersport bike, while the R1M is a high-performance supersport bike."
+    },
+    {
+        "role": "user",
+        "content": "H?"
+    },
+    {
+        "role": "assistant",
+        "content": "Honda"
+    },
+    {
+        "role": "user",
+        "content": "Generator.."
+    },
+    {
+        "role": "assistant",
+        "content": "A device that converts mechanical energy into electrical energy!"
+    },
+    {
+        "role": "user",
+        "content": "C?"
+    },
+    {
+        "role": "assistant",
+        "content": "Computer"
+    },
+    {
+        "role": "user",
+        "content": "W?"
+    },
+    {
+        "role": "assistant",
+        "content": "Windows"
+    },
+    {
+        "role": "user",
+        "content": "W?"
+    },
+    {
+        "role": "assistant",
+        "content": "Web"
+    },
+    {
+        "role": "user",
+        "content": "W?"
+    },
+    {
+        "role": "assistant",
+        "content": "Website"
+    },
+    {
+        "role": "user",
+        "content": "Can't you hear me?."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize if it seemed that way. As a text-based AI, I don't have the ability to hear or perceive the world in the same way that humans do. I can only respond to the text-based input you provide. If you'd like to communicate with me, please feel free to type away!"
+    },
+    {
+        "role": "user",
+        "content": "W?"
+    },
+    {
+        "role": "assistant",
+        "content": "World"
+    },
+    {
+        "role": "user",
+        "content": "W?"
+    },
+    {
+        "role": "assistant",
+        "content": "World Wide Web"
+    },
+    {
+        "role": "user",
+        "content": "W?"
+    },
+    {
+        "role": "assistant",
+        "content": "Wireless"
+    },
+    {
+        "role": "user",
+        "content": "W?"
+    },
+    {
+        "role": "assistant",
+        "content": " Wikipedia"
+    },
+    {
+        "role": "user",
+        "content": "W?"
+    },
+    {
+        "role": "assistant",
+        "content": "Webpage"
+    },
+    {
+        "role": "user",
+        "content": "W?"
+    },
+    {
+        "role": "assistant",
+        "content": "Website"
+    },
+    {
+        "role": "user",
+        "content": "Can't you tell properly.."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize if my previous responses were not accurate. I understand that you were expecting a specific answer for the question \"W?\" and I failed to provide it. If you could please provide more context or clarify what you were expecting as an answer, I'll do my best to provide a correct response."
+    },
+    {
+        "role": "user",
+        "content": "whats the time"
+    },
+    {
+        "role": "assistant",
+        "content": "The current time is 20:28:32 on Monday, 17th of June 2025."
+    },
+    {
+        "role": "user",
+        "content": "whats the time"
+    },
+    {
+        "role": "assistant",
+        "content": "The current time is 20:28:43 on Monday, 17th of June 2025."
+    },
+    {
+        "role": "user",
+        "content": "What's the time?"
+    },
+    {
+        "role": "assistant",
+        "content": "The current time is 20:32:28 on Monday, 17th of March 2025."
+    },
+    {
+        "role": "user",
+        "content": "Who is alone mask?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results you provided earlier, \"Alone Mask\" is not a valid term. However, I think you meant to ask \"Who is Alone Musk?\" or \"Who is Elon Musk?\" Elon Musk is a businessman known for his key roles in Tesla, SpaceX, and Twitter."
+    },
+    {
+        "role": "user",
+        "content": "Vidya coupon."
+    },
+    {
+        "role": "assistant",
+        "content": "Vidya Balan is an Indian actress!"
+    },
+    {
+        "role": "user",
+        "content": "i am the monster"
+    },
+    {
+        "role": "assistant",
+        "content": "I remember! We discussed this earlier. \"I Am the Monster\" is a song by Elvenking, and there's also a song by Shawn Mendes and Justin Bieber called \"Monster\"."
+    },
+    {
+        "role": "user",
+        "content": "who won the match yestarday"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm not aware of any specific match you're referring to. Could you please provide more context or details about the match you're asking about?"
+    },
+    {
+        "role": "user",
+        "content": "ipl"
+    },
+    {
+        "role": "assistant",
+        "content": "Since we are currently on June 4, 2025, the IPL (Indian Premier League) season might have ended or is ongoing. Could you please provide more context or specify which IPL season or match you're asking about?"
+    }
+]
